@@ -1,0 +1,30 @@
+[
+  {
+    "state": "California",
+    "region": "West",
+    "pop": 2312312321,
+    "pop_male": 3123123,
+    "pop_female": 123123
+  },
+  {
+    "state": "New York",
+    "region": "East",
+    "pop": 111111111,
+    "pop_male": 222,
+    "pop_female": 333
+  },
+  {
+    "state": "Alabama",
+    "region": "South",
+    "pop": 44444444,
+    "pop_male": 5555,
+    "pop_female": 6666
+  },
+  {
+    "state": "Illinois",
+    "region": "Midwest",
+    "pop": 7777777777,
+    "pop_male": 8888,
+    "pop_female": 9999
+  }
+]
